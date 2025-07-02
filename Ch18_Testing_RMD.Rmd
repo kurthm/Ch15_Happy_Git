@@ -2,7 +2,9 @@
 Stitle: "Ch18_Happy_Git"
 author: "Morgan Kurth"
 date: "2025-07-02"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
